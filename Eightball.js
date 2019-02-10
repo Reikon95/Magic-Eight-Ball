@@ -1,7 +1,9 @@
-let userName = "Cameron";
+let userName = "Cameron
+//input your name here
 userName ? console.log('true') : console.log('false');
 
 const userQuestion = 'Will I ever be good at coding?';
+//input your question above
 console.log(`${userName} asked: ${userQuestion}`);
 
 const randomNumber = Math.floor(Math.random() * 8);
