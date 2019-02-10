@@ -1,4 +1,4 @@
-let userName = "Cameron
+let userName = "Cameron"
 //input your name here
 userName ? console.log('true') : console.log('false');
 
