@@ -18,7 +18,7 @@ switch(randomNumber) {
     eightball = 'It is decidedly so';
     break;
   case 2:
-    eightBall = 'It is certain';
+    eightBall = 'Perhaps';
     break;
   case 3:
     eightball = 'Reply hazy try again';
