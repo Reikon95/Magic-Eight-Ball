@@ -1,3 +1,4 @@
+console.log('Welcome to the magic eight ball! Input your name and question for your answer...')
 let userName = "Cameron"
 //input your name in the above string
 userName ? console.log('true') : console.log('false');
